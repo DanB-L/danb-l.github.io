@@ -1,5 +1,4 @@
 # danb-l.github.io
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -15,18 +14,18 @@
     <main>
         <section>
             <h2>About Me</h2>
-            <p>Hi! I’m working on my programming and web development skills. This site is a place to showcase my projects and experiments.</p>
+            <p>Hi! I’m just a programming hobbyist! This site is a place to showcase my projects, all WILL be open source.</p>
         </section>
         <section>
             <h2>Projects</h2>
             <ul>
-                <li><a href="#">Project 1</a> - A description of my first project.</li>
-                <li><a href="#">Project 2</a> - A description of my second project.</li>
+                <li><a href="#insertLink here">Project 1</a> - A description of my first project.</li>
+                <li><a href="#insertLink here">Project 2</a> - A description of my second project.</li>
             </ul>
         </section>
     </main>
     <footer>
-        <p>&copy; 2024 My Name. Powered by <a href="https://pages.github.com/">GitHub Pages</a>.</p>
+        <p>&copy; 2024 Eko2. Powered by <a href="https://pages.github.com/">GitHub Pages</a>.</p>
     </footer>
 </body>
 </html>
